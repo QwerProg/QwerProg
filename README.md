@@ -2,7 +2,7 @@
   
   <img src="https://YOUR_AVATAR_LINK" width="200" height="200" alt="你的头像" style="border-radius:50%;">
   
-  <h1>Hi there, I'm QueerFrog 👋</h1>
+  <h1>Hi there, I'm QwerProg 👋</h1>
   
   <p>
     这里是你的个人简介。
