@@ -24,4 +24,6 @@ jobs:
           # 对应 README 中的 comment_tag_name: "douban"
           
           # (可选) 您想显示的最大条目数
-          # max_post_count: 5
+          # max_post_count: 
+          DOUBAN_START: "<!-- douban start -->"
+          DUOBAN_END: "<!-- douban end -->"
