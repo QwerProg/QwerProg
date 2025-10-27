@@ -23,3 +23,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+<div align="center">
+  
+  ### My GitHub Stats 📊
+  
+  ![QwerProg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&height=195)
+  ![QwerProg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QwerProg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&height=195)
+  ![QwerProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight&height=195)
+
+</div>
+
+<div align="center">
