@@ -19,7 +19,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # RSS 链接
-          feed_list: "https://www.douban.com/feed/people/268128201/interests"
+          feed_list: "https://www.douban.com/people/268128201/collect.rss"
           
           # 对应 README 中的 comment_tag_name: "douban"
           
