@@ -22,5 +22,6 @@ jobs:
           #
           # 确保这里的标记和你的 README.md 文件里一致
           #
-          douban_start_comment: ""
-          douban_end_comment: ""
+          douban_start_comment: "<!-- douban starts -->"
+          douban_end_comment: "<!-- douban ends -->
+"
