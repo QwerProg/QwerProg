@@ -2,23 +2,26 @@ name: Update Douban Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天运行
+  workflow_dispatch: # 允许手动运行
 
-# ⬇️ 确保添加了下面这个 permissions 块
 permissions:
-  contents: write  # 授予 workflow 写入仓库内容的权限
+  contents: write # 保留写入权限
 
 jobs:
   update-readme:
-    name: Update README with Douban stats
+    name: Update README with Douban RSS
     runs-on: ubuntu-latest
     steps:
-      # 1. 检出代码
       - uses: actions/checkout@v2
       
-      # 2. 运行 Douban Action
-      - uses: beiyuouo/readme-action@main
+      # 换成一个可以读取 RSS 的 Action
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # 确保这里的 ID 是正确的
-          douban_name: '268128201'
+          # RSS 链接
+          feed_list: "https://www.douban.com/feed/people/268128201/interests"
+          
+          # 对应 README 中的 comment_tag_name: "douban"
+          
+          # (可选) 您想显示的最大条目数
+          # max_post_count: 5
