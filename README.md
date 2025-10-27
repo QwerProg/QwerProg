@@ -11,6 +11,11 @@
 
 #### 📖 Recent Digests
 
-<!-- BLOG-POST-LIST:START -->- [最近在读古尔德鱼之书](https://book.douban.com/subject/37283684/) - 2025-10-27- [想读Rust程序设计 &lpar;第2版&rpar;](https://book.douban.com/subject/36547630/) - 2025-10-18- [看过唐朝诡事录之西行](https://movie.douban.com/subject/36188849/) - 2025-05-16- [看过唐朝诡事录](https://movie.douban.com/subject/35235151/) - 2025-05-13- [看过开端](https://movie.douban.com/subject/35332289/) - 2025-04-30<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [最近在读古尔德鱼之书](https://book.douban.com/subject/37283684/) - 2025-10-27
+- [想读Rust程序设计 &lpar;第2版&rpar;](https://book.douban.com/subject/36547630/) - 2025-10-18
+- [看过唐朝诡事录之西行](https://movie.douban.com/subject/36188849/) - 2025-05-16
+- [看过唐朝诡事录](https://movie.douban.com/subject/35235151/) - 2025-05-13
+- [看过开端](https://movie.douban.com/subject/35332289/) - 2025-04-30
+<!-- BLOG-POST-LIST:END -->
 
 #### 👨🏻‍💻 Coding with this week
