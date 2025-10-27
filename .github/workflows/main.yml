@@ -1,0 +1,21 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    # 每天凌晨 0 点（UTC时间）运行一次
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 允许你手动触发
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: "true"
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
