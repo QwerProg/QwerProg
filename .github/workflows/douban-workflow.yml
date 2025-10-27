@@ -1,19 +1,20 @@
-name: Update WakaTime Stats
+name: Update Douban Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # 每天午夜运行
   workflow_dispatch: # 允许手动触发
 
 jobs:
   update-readme:
-    name: Update README with WakaTime stats
+    name: Update README with Douban stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # 1. 检出代码
+      - uses: actions/checkout@v2
+      
+      # 2. 运行 Douban Action
+      - uses: beiyuouo/readme-action@main
         with:
-          # 确保你已经在 Settings > Secrets 里设置了 WAKATIME_API_KEY
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+          # 替换为你的豆瓣 ID（数字ID或个性域名）
+          douban_name: '268128201'
