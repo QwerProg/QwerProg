@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://YOUR_AVATAR_LINK" width="200" height="200" alt="你的头像" style="border-radius:50%;">
+  <img src="https://YOUR_AVATAR_LINK" width="200" height="200" alt="orange.jpeg" style="border-radius:50%;">
   
   <h1>Hi there, I'm QwerProg 👋</h1>
   
