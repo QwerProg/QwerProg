@@ -1,14 +1,12 @@
 <div align="center">
   
-  <img src="https://YOUR_AVATAR_LINK" width="200" height="200" alt="[orange.jpeg](https://github.com/QwerProg.jpeg)" style="border-radius:50%;">
+  <img src="https://github.com/QwerProg.png" width="200" height="200" alt="QwerProg" style="border-radius:50%;">
   
-  <h1>Hi there, I'm QwerProg 👋</h1>
+  # Hi there, I'm QwerProg 👋
   
-  <p>
-    这里是你的个人简介。
-    <br>
-    例如：I'm a developer, passionate about open-source and new technologies.
-  </p>
+  这里是你的个人简介。
+  <br>
+  例如：I'm a developer, passionate about open-source and new technologies.
   
   <p>
     <a href="https://github.com/QwerProg">
@@ -28,24 +26,22 @@
 
 <div align="center">
   
-  <h3>My GitHub Stats 📊</h3>
+  ### My GitHub Stats 📊
   
-  <img src="https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="QwerProg's GitHub Stats" height="195">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=QwerProg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="QwerProg's GitHub Streak" height="195">
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight" alt="QwerProg's Top Languages" height="195">
+  ![QwerProg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&height=195)
+  ![QwerProg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QwerProg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&height=195)
+  ![QwerProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight&height=195)
 
 </div>
 
 <div align="center">
 
-  <h3>My Coding Activity 💻</h3>
+  ### My Coding Activity 💻
 
   </div>
 
 <div align="left">
 
-  <h3>Recent Blog Posts 📝</h3>
+  ### Recent Blog Posts 📝
 
   </div>
