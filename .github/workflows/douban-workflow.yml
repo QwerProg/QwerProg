@@ -25,5 +25,3 @@ jobs:
           
           # (可选) 您想显示的最大条目数
           # max_post_count: 
-          DOUBAN_START: "<!-- douban start -->"
-          DUOBAN_END: "<!-- douban end -->"
