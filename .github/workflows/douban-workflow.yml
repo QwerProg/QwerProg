@@ -21,7 +21,11 @@ jobs:
           # RSS 链接
           feed_list: "https://www.douban.com/feed/people/268128201/interests"
           
-          # 对应 README 中的 comment_tag_name: "douban"
-          
           # (可选) 您想显示的最大条目数
           # max_post_count: 
+          
+          # --- 以下是新增的两行 ---
+          # 自定义模板，"- [标题](链接) - 日期"
+          template: "- [$title]($url) - $date"
+          # 设置日期的格式为 "YYYY-MM-DD"
+          date_format: "yyyy-mm-dd"
