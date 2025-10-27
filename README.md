@@ -17,11 +17,7 @@
 #### 📖 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/1264579/' target='_blank'>想读欢乐英雄</a> - 2025-10-25
-* <a href='https://movie.douban.com/subject/3609075/' target='_blank'>看过蜗居</a> - 2025-10-20
-* <a href='https://movie.douban.com/subject/2210001/' target='_blank'>在看大明王朝1566</a> - 2025-10-20
-* <a href='https://book.douban.com/subject/36096300/' target='_blank'>读过鱼不存在</a> - 2025-10-20
-* <a href='https://movie.douban.com/subject/1830590/' target='_blank'>看过康熙王朝</a> - 2025-10-20
+
 <!-- douban ends -->
 
 #### 👨🏻‍💻 Coding with this week
