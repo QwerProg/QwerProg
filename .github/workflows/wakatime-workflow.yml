@@ -15,10 +15,4 @@ jobs:
         with:
           # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # 可选项 (下面是推荐配置，符合你的 "This Week")
-          TIME_RANGE: "last_7_days" # 只显示最近7天的数据
-          SHOW_TITLE: "false" # 不显示额外的标题 (因为你README里已经有了)
-          SHOW_TOTAL: "true" # 显示总时间
-          SHOW_MASKED_TIME: "false" # 不显示未归类的时间
