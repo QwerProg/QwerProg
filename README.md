@@ -11,7 +11,7 @@
 
 #### 📖 Recent Digests
 
-<!-- douban start -->
-<!-- douban end -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### 👨🏻‍💻 Coding with this week
