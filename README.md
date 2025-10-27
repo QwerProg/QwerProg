@@ -11,13 +11,4 @@
 
 #### 📖 Recent Digests
 
-<!-- douban starts -->
-
-<!-- douban ends -->
-
 #### 👨🏻‍💻 Coding with this week
-
-<!-- code_time starts -->
-
-
-<!-- code_time ends -->
