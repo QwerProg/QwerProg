@@ -1,47 +1,50 @@
-<div align="center">
-  
-  <img src="https://github.com/QwerProg.png" width="200" height="200" alt="QwerProg" style="border-radius:50%;">
-  
-  # Hi there, I'm QwerProg 👋
-  
-  这里是你的个人简介。
-  <br>
-  例如：I'm a developer, passionate about open-source and new technologies.
-  
-  <p>
-    <a href="https://github.com/QwerProg">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-     <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </p>
-</div>
+<p align="center">
+ <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
+</p>
 
-<div align="center">
-  
-  ### My GitHub Stats 📊
-  
-  ![QwerProg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&height=195)
-  ![QwerProg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QwerProg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&height=195)
-  ![QwerProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight&height=195)
+### Hi there ✋
 
-</div>
+[![wakatime](https://wakatime.com/badge/user/990b78cd-738d-40b5-b130-3aacf3ce0b82.svg)](https://wakatime.com/@990b78cd-738d-40b5-b130-3aacf3ce0b82)
+[![GitHub](https://img.shields.io/github/followers/pseudoyu?logo=github&style=flat-square)](https://github.com/pseudoyu)
+[![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
+<!--[![Visits Badge](https://badges.strrl.dev/visits/pseudoyu/pseudoyu?style=flat-square)](https://github.com/pseudoyu)-->
 
-<div align="center">
+<br />
 
-  ### My Coding Activity 💻
+I'm [pseudoyu](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
 
-  </div>
+I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-<div align="left">
+#### 🔨 Coding Activities
 
-  ### Recent Blog Posts 📝
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
 
-  </div>
+- 💼 Love open-source
+
+
+#### 📖 Recent Digests
+
+<!-- douban starts -->
+* <a href='https://book.douban.com/subject/1264579/' target='_blank'>想读欢乐英雄</a> - 2025-10-25
+* <a href='https://movie.douban.com/subject/3609075/' target='_blank'>看过蜗居</a> - 2025-10-20
+* <a href='https://movie.douban.com/subject/2210001/' target='_blank'>在看大明王朝1566</a> - 2025-10-20
+* <a href='https://book.douban.com/subject/36096300/' target='_blank'>读过鱼不存在</a> - 2025-10-20
+* <a href='https://movie.douban.com/subject/1830590/' target='_blank'>看过康熙王朝</a> - 2025-10-20
+<!-- douban ends -->
+
+#### 👨🏻‍💻 Coding with this week
+
+<!-- code_time starts -->
+
+```text
+TypeScript 14 hrs 46 mins ████████████▌░░░░░░░░  59.6%
+Markdown   3 hrs 17 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+JSON       1 hr 34 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+YAML       1 hr 31 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Other      50 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+```
+
+<!-- code_time ends -->
