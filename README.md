@@ -11,7 +11,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/QueerFrog">
+    <a href="https://github.com/QwerProg">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
@@ -30,11 +30,11 @@
   
   <h3>My GitHub Stats 📊</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=QueerFrog&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="QueerFrog's GitHub Stats" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="QwerProg's GitHub Stats" height="195">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=QueerFrog&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="QueerFrog's GitHub Streak" height="195">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=QwerProg&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="QwerProg's GitHub Streak" height="195">
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueerFrog&layout=compact&theme=tokyonight" alt="QueerFrog's Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight" alt="QwerProg's Top Languages" height="195">
 
 </div>
 
