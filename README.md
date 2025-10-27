@@ -11,17 +11,6 @@
 
 <br />
 
-I'm [pseudoyu](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
-
-I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
-
-#### 🔨 Coding Activities
-
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
-[![Commits Badge](https://badges.strrl.dev/commits/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
-
 - 💼 Love open-source
 
 
