@@ -24,12 +24,5 @@
 
 <!-- code_time starts -->
 
-```text
-TypeScript 14 hrs 46 mins ████████████▌░░░░░░░░  59.6%
-Markdown   3 hrs 17 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
-JSON       1 hr 34 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
-YAML       1 hr 31 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Other      50 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-```
 
 <!-- code_time ends -->
