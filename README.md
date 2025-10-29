@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/Bottom_up.svg"  />
+</div>
+
 <p align="center">
  <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
 </p>
