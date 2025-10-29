@@ -22,6 +22,85 @@
 #### 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-501-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌆 Daytime                35 commits          ███████████████░░░░░░░░░░   59.32 % 
+🌃 Evening                14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   48 commits          ████████████████████░░░░░   81.36 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     5 hrs 48 mins       ███████████████████░░░░░░   74.80 % 
+XML                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Java Properties          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+
+🔥 Editors: 
+IntelliJ IDEA            7 hrs 39 mins       █████████████████████████   98.47 % 
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+
+🐱‍💻 Projects: 
+video-transcriber        5 hrs 25 mins       █████████████████░░░░░░░░   69.76 % 
+chapter9                 2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+main.rs                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+💻 Operating System: 
+Mac                      7 hrs 46 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ███████████████████░░░░░░   75.00 % 
+Rust                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/10/2025 02:53:20 UTC
 <!--END_SECTION:waka-->
 
 
