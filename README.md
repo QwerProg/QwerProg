@@ -13,7 +13,7 @@
 - 💼 Love open-source
 
 
-#### 📖 Recent Digests
+### 📖 Recent Digests
 
 <!-- BLOG-POST-LIST:START -->
 - [看过星期三 第二季](https://movie.douban.com/subject/36208369/) - 2025-10-28
@@ -23,7 +23,7 @@
 - [看过唐朝诡事录](https://movie.douban.com/subject/35235151/) - 2025-05-13
 <!-- BLOG-POST-LIST:END -->
 
-#### 👨🏻‍💻 Coding with this week
+### 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2046%20mins-blue)
@@ -85,7 +85,7 @@ Rust                     1 repo              ██████░░░░░�
 <!--END_SECTION:waka-->
 
 
-#### 📊 My GitHub Stats
+### 📊 My GitHub Stats
 <div align="center">
   
   ![QwerProg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QwerProg&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&height=195)
@@ -94,4 +94,4 @@ Rust                     1 repo              ██████░░░░░�
 
 </div>
 
-<div align="center">
+<div align="left">
