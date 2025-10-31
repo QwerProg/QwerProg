@@ -26,62 +26,60 @@
 ### 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-632-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-638-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌆 Daytime                35 commits          █████████████░░░░░░░░░░░░   52.24 % 
-🌃 Evening                14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌞 Morning                18 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌆 Daytime                36 commits          █████████████░░░░░░░░░░░░   52.17 % 
+🌃 Evening                15 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   48 commits          ██████████████████░░░░░░░   71.64 % 
+Monday                   48 commits          █████████████████░░░░░░░░   69.57 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Wednesday                13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Java                     10 hrs 59 mins      █████████████████░░░░░░░░   69.68 % 
-XML                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Java Properties          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Java                     14 hrs 47 mins      █████████████████░░░░░░░░   68.50 % 
+Java Properties          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+XML                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Python                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 39 mins      ███████████████████████░░   92.88 % 
-Vim                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-PyCharm                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Notion                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+IntelliJ IDEA            18 hrs 58 mins      ██████████████████████░░░   87.92 % 
+PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Vim                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Notion                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ███████████████████░░░░░░   75.00 % 
-Rust                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     4 repos             ████████████████████░░░░░   80.00 % 
+Rust                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 30/10/2025 00:43:49 UTC
+ Last Updated on 31/10/2025 00:42:06 UTC
 <!--END_SECTION:waka-->
 
 
