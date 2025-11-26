@@ -6,14 +6,14 @@
  <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
 </p>
 
-### Hi there ✋
+## Hi there ✋
 Hey, I am Chapman, a Java developer and open source enthusiast.
 
 I love building tools. Currently learning Redis and Spring Cloud.
 
 <br />
 
-### 📖 Recent Digests
+## 📖 Recent Digests
 
 <!-- BLOG-POST-LIST:START -->
 - [在看唐朝诡事录之长安](https://movie.douban.com/subject/36318037/) - 2025-11-08
@@ -24,7 +24,7 @@ I love building tools. Currently learning Redis and Spring Cloud.
 
 <!-- BLOG-POST-LIST:END -->
 
-### 👨🏻‍💻 Coding with this week
+## 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2021%20mins-blue)
@@ -62,7 +62,7 @@ JavaScript               44 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 <div align="center">
 
   ![QwerProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight&height=195)
