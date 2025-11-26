@@ -6,24 +6,25 @@ on:
   workflow_dispatch: # 允许手动运行
 
 permissions:
-  contents: write # 写入权限 (需要第1步的设置)
+  contents: write # 写入权限
 
 jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
       # 注意：我们更换了 Action 的名字
-      - uses: athul/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          # --- 以下是您想要的自定义选项 ---
+          # --- 以下是自定义选项 ---
           
-          # (可选) 设置您想要的标题
+          # (可选) 设置想要的标题
           TITLE: "This Week I Code With"
           
           # (可选) 设置统计的时间范围
