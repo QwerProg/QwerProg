@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # 注意：我们更换了 Action 的名字
       - uses: anmol098/waka-readme-stats@master
         with:
           # 必填项
@@ -25,10 +24,10 @@ jobs:
           # --- 以下是自定义选项 ---
           
           # (可选) 设置想要的标题
-          TITLE: "This Week I Code With"
+          # TITLE: "This Week I Code With"
           
           # (可选) 设置统计的时间范围
-          TIME_RANGE: "last_7_days" 
+          # TIME_RANGE: "last_7_days" 
           
           # (可选) 隐藏其他信息，只显示语言
           SHOW_OS: "False"
