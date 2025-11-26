@@ -11,7 +11,6 @@ Hey, I am Chapman, a Java developer and open source enthusiast.
 
 I love building tools. Currently learning Redis and Spring Cloud.
 
-<br />
 
 ## 📖 Recent Digests
 
