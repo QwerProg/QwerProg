@@ -7,9 +7,8 @@
 </p>
 
 ## Hi there ✋
-### **Hey, I am Chapman, a Java developer and open source enthusiast.**
-
-### **I love building tools. Currently learning Redis and Spring Cloud.**
+**Hey, I am Chapman, a Java developer and open source enthusiast.**
+**I love building tools. Currently learning Redis and Spring Cloud.**
 
 
 ## 📖 Recent Digests
