@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
+ <h1 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h1>
 </p>
 
 ## Hi there ✋
