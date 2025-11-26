@@ -30,5 +30,8 @@ jobs:
           # 设置日期的格式为 "YYYY-MM-DD"
           date_format: "yyyy-mm-dd"
 
+          # 指定 README 中自定义的 DOUBAN-POST-LIST 标签
+          comment_tag_name: "DOUBAN-POST-LIST"
+
           # 在列表开始前和结束后添加换行符，确保 Markdown 格式正确
           tag_post_pre_newline: true

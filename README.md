@@ -15,14 +15,14 @@ I love building tools. Currently learning Redis and Spring Cloud.
 
 ## 📖 Recent Digests
 
-<!-- BLOG-POST-LIST:START -->
+<!-- DOUBAN-POST-LIST:START -->
 - [在看唐朝诡事录之长安](https://movie.douban.com/subject/36318037/) - 2025-11-08
 - [看过星期三 第二季](https://movie.douban.com/subject/36208369/) - 2025-10-28
 - [最近在读Rust权威指南](https://book.douban.com/subject/35081743/) - 2025-10-27
 - [想读Rust程序设计 &lpar;第2版&rpar;](https://book.douban.com/subject/36547630/) - 2025-10-18
 - [看过唐朝诡事录之西行](https://movie.douban.com/subject/36188849/) - 2025-05-16
 
-<!-- BLOG-POST-LIST:END -->
+<!-- DOUBAN-POST-LIST:END -->
 
 ## 👨🏻‍💻 Coding with this week
 
