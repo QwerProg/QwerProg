@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 语言设置
           # LOCALE: zh 
-          SHOW_LINES_OF_CODE: "Flase" # 显示截至日期写入的代码行数
+          SHOW_LINES_OF_CODE: "False" # 显示截至日期写入的代码行数
           SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
           SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
           SHOW_OS: "Flase" # 显示操作系统
