@@ -19,15 +19,15 @@ jobs:
         with:
           # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # --- 以下是自定义选项 ---
           
           # (可选) 设置想要的标题
-          # TITLE: "This Week I Code With"
+          TITLE: "This Week I Code With"
           
           # (可选) 设置统计的时间范围
-          # TIME_RANGE: "last_7_days" 
+          TIME_RANGE: "last_7_days" 
           
           # (可选) 隐藏其他信息，只显示语言
           SHOW_OS: "False"
