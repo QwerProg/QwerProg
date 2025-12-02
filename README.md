@@ -26,38 +26,63 @@
 ## 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2045%20mins-blue)
 
-📅 **I'm Most Productive on Sunday** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+
+**I'm an Early 🐤** 
 
 ```text
-Monday                   60 commits          █████████░░░░░░░░░░░░░░░░   35.71 % 
-Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Sunday                   64 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌆 Daytime                69 commits          ██████████░░░░░░░░░░░░░░░   39.88 % 
+🌃 Evening                82 commits          ████████████░░░░░░░░░░░░░   47.40 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   65 commits          █████████░░░░░░░░░░░░░░░░   37.57 % 
+Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Sunday                   64 commits          █████████░░░░░░░░░░░░░░░░   36.99 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
 💬 Programming Languages: 
 Java                     18 hrs 26 mins      █████████████░░░░░░░░░░░░   51.80 % 
 Other                    5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Vue.js                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 Markdown                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 XML                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+
+🔥 Editors: 
+IntelliJ IDEA            21 hrs 47 mins      ███████████████░░░░░░░░░░   61.21 % 
+VS Code                  5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Terminal                 4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Antigravity              2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Notion                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
-**Timeline**
+**I Mostly Code in Java** 
 
-![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
+```text
+Java                     4 repos             █████████████████░░░░░░░░   66.67 % 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Rust                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
 
 
- Last Updated on 01/12/2025 01:47:41 UTC
+
+
+ Last Updated on 02/12/2025 00:44:57 UTC
 <!--END_SECTION:waka-->
 
 
