@@ -26,38 +26,21 @@
 ## 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2010%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📅 **I'm Most Productive on Monday** 
+**I Mostly Code in Java** 
 
 ```text
-Monday                   66 commits          █████████░░░░░░░░░░░░░░░░   35.48 % 
-Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Wednesday                39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Sunday                   64 commits          █████████░░░░░░░░░░░░░░░░   34.41 % 
+Java                     5 repos             ████████████████░░░░░░░░░   62.50 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    2 hrs 19 mins       ████████████████░░░░░░░░░   62.95 % 
-XML                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Java                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Vue.js                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:39:27 UTC
+ Last Updated on 03/01/2026 00:44:05 UTC
 <!--END_SECTION:waka-->
 
 
