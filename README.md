@@ -26,21 +26,14 @@
 ## 👨🏻‍💻 Coding with this week
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2041%20mins-blue)
 
-**I Mostly Code in Java** 
+**Timeline**
 
-```text
-Java                     5 repos             ████████████████░░░░░░░░░   62.50 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
+![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
-
-
- Last Updated on 03/01/2026 00:44:05 UTC
+ Last Updated on 03/01/2026 01:24:57 UTC
 <!--END_SECTION:waka-->
 
 
