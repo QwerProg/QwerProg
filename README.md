@@ -28,6 +28,16 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2055%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+🌆 Daytime                74 commits          █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌃 Evening                89 commits          ███████████░░░░░░░░░░░░░░   45.64 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+```
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -44,16 +54,28 @@ Sunday                   65 commits          ████████░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
 💬 Programming Languages: 
-Other                    22 hrs 14 mins      █████████████████████████   100.00 % 
+Other                    23 hrs 1 min        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Zen                      23 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
-**Timeline**
+**I Mostly Code in Java** 
 
-![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
+```text
+Java                     5 repos             ████████████████░░░░░░░░░   62.50 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
 
 
- Last Updated on 08/02/2026 02:26:29 UTC
+
+
+ Last Updated on 09/02/2026 01:02:23 UTC
 <!--END_SECTION:waka-->
 
 
