@@ -23,7 +23,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # 基础配置
-          LOCALE: "zh"
+          LOCALE: "en"
           SYMBOL_VERSION: "1"
           
           # 显示内容整合
