@@ -14,6 +14,8 @@
 
 ## 📖 Recent Digests
 
+> From Douban 
+
 <!-- DOUBAN-POST-LIST:START -->
 - [在看同乐者 第一季](https://movie.douban.com/subject/36352371/) - 2025-11-29
 - [在看唐朝诡事录之长安](https://movie.douban.com/subject/36318037/) - 2025-11-08
