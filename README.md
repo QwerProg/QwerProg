@@ -27,7 +27,13 @@
 
 <!-- DOUBAN-POST-LIST:END -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+>Listening now
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
 
 ## 👨🏻‍💻 Coding with this week
 
