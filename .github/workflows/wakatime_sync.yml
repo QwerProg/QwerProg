@@ -36,4 +36,4 @@ jobs:
           
           # --- 其他设置 ---
           SHOW_PROJECTS: "False"     # 显示项目名
-          SHOW_SHORT_INFO: "True"    # 设置简短趣味信息
+          SHOW_SHORT_INFO: "False"    # 设置简短趣味信息
