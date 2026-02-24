@@ -30,11 +30,11 @@ def get_xmly_status():
             tracks = data.get('data', {}).get('trackHistoryList', [])
             if tracks:
                 track = tracks[0]
-                return f"📻 最近在听：[{track['trackTitle']}](https://www.ximalaya.com{track['trackUrl']}) —— *{track['albumTitle']}*"
-        return "📻 喜马拉雅：暂时没发现播放记录"
+                return f"最近在听：[{track['trackTitle']}](https://www.ximalaya.com{track['trackUrl']}) —— *{track['albumTitle']}*"
+        return "喜马拉雅：暂时没发现播放记录"
     except Exception as e:
         print(f"API Error: {e}")
-        return "📻 喜马拉雅：数据获取异常"
+        return "喜马拉雅：数据获取异常"
 
 def update_readme(new_status):
     """安全地更新 README 文件"""
