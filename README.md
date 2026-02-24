@@ -95,11 +95,3 @@ Rust                     1 repo              ███░░░░░░░░�
 
  Last Updated on 24/02/2026 13:47:25 UTC
 <!--END_SECTION:waka-->
-
-
-## 📊 My GitHub Stats
-<div align="center">
-
-  ![QwerProg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwerProg&layout=compact&theme=tokyonight&height=195)
-
-</div>
