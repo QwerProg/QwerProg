@@ -24,7 +24,6 @@ jobs:
           
           # --- 基础设置 ---
           # LOCALE: "zh"               # 设置为中文显示
-          TIME_RANGE: "last_7_days"  # 统计周期
           SYMBOL_VERSION: "1"        # 使用实心方块进度条
           
           # --- 显示开关 ---
