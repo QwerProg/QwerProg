@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/Bottom_up.svg"  />
-</div>
-
 <p align="center">
  <h1 align="center">🧑🏻‍💻 Coding... 🧑🏻‍💻</h1>
 </p>
