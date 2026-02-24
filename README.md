@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
-<p align="center">
  <h1 align="center">🧑🏻‍💻 Coding... 🧑🏻‍💻</h1>
 </p>
 
@@ -29,11 +23,7 @@
 
 >Listening now
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btad7bicxtayw57fcr4h6gomfm&redirect=true)
 
 ## 👨🏻‍💻 Coding with this week
 
