@@ -2,11 +2,11 @@ name: WakaTime Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天凌晨 00:00 运行
-  workflow_dispatch:     # 允许手动点击运行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write # Action 写入 README 的权限
+  contents: write
 
 jobs:
   update-readme:
@@ -22,18 +22,19 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          # --- 基础设置 ---
-          # LOCALE: "zh"               # 设置为中文显示
-          SYMBOL_VERSION: "1"        # 使用实心方块进度条
+          # 基础配置
+          LOCALE: "zh"
+          SYMBOL_VERSION: "1"
           
-          # --- 显示开关 ---
-          SHOW_OS: "True"            # 显示操作系统
-          SHOW_EDITORS: "True"       # 显示编辑器
-          SHOW_LANGUAGE: "True"      # 显示编程语言
-          SHOW_COMMIT: "True"        # 显示提交频率
-          SHOW_DAYS_OF_WEEK: "True"  # 显示周几最忙
-          SHOW_PROFILE_VIEWS: "True" # 显示主页访问量
+          # 显示内容整合
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"        
+          SHOW_DAYS_OF_WEEK: "True"  
+          SHOW_PROFILE_VIEWS: "True" 
+          SHOW_LANGUAGE_PER_REPO: "True"
           
-          # --- 其他设置 ---
-          SHOW_PROJECTS: "False"     # 显示项目名
-          SHOW_SHORT_INFO: "False"    # 设置简短趣味信息
+          # 隐私设置
+          SHOW_PROJECTS: "False"     
+          SHOW_SHORT_INFO: "False"
