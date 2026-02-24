@@ -24,7 +24,7 @@ jobs:
         env:
           XMLY_APP_KEY: ${{ secrets.XMLY_APP_KEY }}
           XMLY_APP_SECRET: ${{ secrets.XMLY_APP_SECRET }}
-        run: python sync_xmly.py
+        run: python xmly_sync.py
 
       - name: Commit and Push
         run: |
