@@ -1,0 +1,35 @@
+name: Update Douban Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天运行
+  workflow_dispatch: # 允许手动运行
+
+permissions:
+  contents: write # 保留写入权限
+
+jobs:
+  update-readme:
+    name: Update README with Douban RSS
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # RSS 链接
+          feed_list: "https://www.douban.com/feed/people/268128201/interests"
+          
+          # 显示的最大条目数
+          # max_post_count: 
+          
+          # 自定义模板，"- [标题](链接) - 日期"
+          template: "- [$title]($url) - $date$newline"
+          # 设置日期的格式为 "YYYY-MM-DD"
+          date_format: "yyyy-mm-dd"
+
+          # 指定 README 中自定义的 DOUBAN-POST-LIST 标签
+          comment_tag_name: "DOUBAN-POST-LIST"
+
+          # 在列表开始前和结束后添加换行符，确保 Markdown 格式正确
+          tag_post_pre_newline: true
