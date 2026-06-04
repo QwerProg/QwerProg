@@ -1,5 +1,3 @@
-I'm Chapman, an indie developer who loves open source.
-
 ## Recent Digests
 
 > From Douban
