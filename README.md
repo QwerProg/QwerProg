@@ -49,14 +49,13 @@ Sunday                   67 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Terminal                 1 min               ████████████████████░░░░░   79.09 % 
-Termius                  0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +75,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 05:14:05 UTC
+ Last Updated on 17/06/2026 04:56:10 UTC
 <!--END_SECTION:waka-->
