@@ -18,7 +18,7 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -49,22 +49,20 @@ Sunday                   96 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Rust                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Vue                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Other                    2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.16 % 
+Rust                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+TOML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Antigravity CLI          7 hrs 50 mins       ████████████████████░░░░░   78.29 % 
-Neovim                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Terminal                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Antigravity CLI          3 hrs 45 mins       █████████████████░░░░░░░░   67.36 % 
+Neovim                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Linux                    9 hrs 44 mins       ████████████████████████░   97.40 % 
-Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,5 +82,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 03:38:29 UTC
+ Last Updated on 27/07/2026 03:47:39 UTC
 <!--END_SECTION:waka-->
