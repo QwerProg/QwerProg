@@ -18,10 +18,6 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2032%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -51,42 +47,42 @@ Sunday                   96 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Rust                     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-TOML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    29 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+TOML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Rust                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 3 mins        ████████████████░░░░░░░░░   65.45 % 
-Neovim                   1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Zed                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Copilot CLI              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Neovim                   47 mins             ███████████░░░░░░░░░░░░░░   43.91 % 
+Antigravity CLI          42 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
+Zed                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Copilot CLI              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (93.36%)
+⏱ AI Coding Time: 1 hr 31 mins (83.61%)
 
-✍️ 86 lines written by AI, 7 lines written by hand (92.47% AI-written)
+✍️ 42 lines written by AI, 7 lines written by hand (85.71% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 83 AI Prompts
+🧠 10 AI Sessions, 36 AI Prompts
 
-Gemini                   60 lines            █████████████████████████   100.00 % 
+Gemini                   15 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.47% of written lines came from AI
-📝 Concise Prompter — average 247 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.25% of changed lines were hand-edited
+🤖 AI-Driven — 85.71% of written lines came from AI
+📝 Concise Prompter — average 16 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -106,5 +102,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:18:26 UTC
+ Last Updated on 29/07/2026 03:20:32 UTC
 <!--END_SECTION:waka-->
