@@ -18,9 +18,9 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -51,46 +51,46 @@ Sunday                   96 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Rust                     2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.31 % 
-TOML                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-WebGPU Shading Language  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Rust                     2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
+Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+TOML                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+WebGPU Shading Language  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+zsh                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 51 mins       ████████████████████░░░░░   78.54 % 
-Neovim                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Zed                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Grok Build               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Antigravity CLI          4 hrs 8 mins        ███████████████████░░░░░░   75.27 % 
+Neovim                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Zed                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Grok Build               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 22 mins (89.11%)
+⏱ AI Coding Time: 4 hrs 34 mins (83.08%)
 
-✍️ 345 lines written by AI, 8 lines written by hand (97.73% AI-written)
+✍️ 337 lines written by AI, 1 lines written by hand (99.7% AI-written)
 
 🔤 176,636 Input Tokens, 3,720 Output Tokens
 
 💵 $0.43 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 66 AI Prompts
+🧠 14 AI Sessions, 71 AI Prompts
 
-Gemini                   359 lines           ████████████████████████░   97.55 % 
-Sonnet                   9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Gemini                   350 lines           ████████████████████████░   97.49 % 
+Sonnet                   9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.73% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.92% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 261 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -110,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 03:35:48 UTC
+ Last Updated on 03/08/2026 03:37:55 UTC
 <!--END_SECTION:waka-->
