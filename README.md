@@ -18,11 +18,11 @@
 ## Coding This Week
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -51,28 +51,28 @@ Sunday                   96 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Rust                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Other                    1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Bash                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-C                        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Rust                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Bash                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C                        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.46 % 
-Antigravity CLI          1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   40.53 % 
-Grok Build               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Zed                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Neovim                   1 hr 49 mins        █████████████░░░░░░░░░░░░   52.17 % 
+Antigravity CLI          1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
+Grok Build               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Zed                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Codex CLI                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Linux                    4 hrs 4 mins        ████████████████████████░   96.66 % 
-Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Linux                    3 hrs 21 mins       ████████████████████████░   95.98 % 
+Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (69.87%)
+⏱ AI Coding Time: 2 hrs 17 mins (65.62%)
 
 ✍️ 16 lines written by AI, 15 lines written by hand (51.61% AI-written)
 
@@ -80,7 +80,7 @@ Mac                      8 mins              █░░░░░░░░░░�
 
 💵 $2.49 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 73 AI Prompts
+🧠 13 AI Sessions, 61 AI Prompts
 
 Opus                     18 lines            █████████████████████████   100.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -88,7 +88,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 51.61% of written lines came from AI
-📚 Verbose Prompter — average 1,742 characters per prompt
+📚 Verbose Prompter — average 2,073 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 62.5% of changed lines were hand-edited
 ```
@@ -110,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QwerProg/QwerProg/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 02:21:12 UTC
+ Last Updated on 11/08/2026 02:11:29 UTC
 <!--END_SECTION:waka-->
