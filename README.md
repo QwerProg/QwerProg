@@ -3,11 +3,11 @@
 > From Douban
 
 <!-- DOUBAN-POST-LIST:START -->
+- [看过蜘蛛侠：崭新之日](https://movie.douban.com/subject/36246195/) - 2026-08-12
 - [想读低能儿收容所](https://book.douban.com/subject/20501529/) - 2026-07-30
 - [看过记忆碎片](https://movie.douban.com/subject/1304447/) - 2026-06-01
 - [在看同乐者 第一季](https://movie.douban.com/subject/36352371/) - 2025-11-29
 - [在看唐朝诡事录之长安](https://movie.douban.com/subject/36318037/) - 2025-11-08
-- [看过星期三 第二季](https://movie.douban.com/subject/36208369/) - 2025-10-28
 
 <!-- DOUBAN-POST-LIST:END -->
 
